@@ -18,9 +18,3 @@ Wall手言合–多樣互動式展示牆是擁有多樣互動方式的沉浸式�
 | D | 公告列表頁切換下一批公告 |
 | L | 公告列表頁切換下一月行事歷 |
 | R | 公告列表頁切換下一批日程表 |
-
-### 展示DEMO連結
-
-- **[專案介紹及展示書](https://drive.google.com/file/d/1s2_gw4ORuxToRqn0mbfSKTHORa_0K3TB/view?usp=sharing)**
-- **[前台功能展示影片](https://drive.google.com/file/d/1nS0Q91YYghqjg1ze6j1U4SksMBcYqU7F/view?usp=sharing)**
-- **[後台管理功能展示影片](https://drive.google.com/file/d/1hAJissFGSVJ01152kWpmU-ooP41U1I9q/view?usp=sharing)**
